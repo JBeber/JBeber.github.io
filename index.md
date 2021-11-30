@@ -3,4 +3,4 @@ I'm putting my Python Projects here.
 
 ### Interactive Maps
 
-- [Custom Lexington Map](custom_map.html)
+- [Custom Lexington Map](JBeber.github.io/custom_map.html)
